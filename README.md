@@ -44,16 +44,7 @@
     </a></p>
     <h4></h4>
     <a href="">
-    <img src="https://github.com/Novia-ND/Portfolio-using-only-HTML/blob/master/images/Screenshot%20from%202020-08-06%2017-33-26.png?raw=true" alt="Logo" width="800" height="400">
-    </a></p>
-    <h4></h4>
-    <a href="">
-    <img src="https://github.com/Novia-ND/Portfolio-using-only-HTML/blob/master/images/Screenshot%20from%202020-08-06%2017-40-53.png?raw=true" alt="Logo" width="800" height="400">
-    </a></p>
-      <h4></h4>
-    <a href="">
-    <img src="https://github.com/Novia-ND/Portfolio-using-only-HTML/blob/master/images/Screenshot%20from%202020-08-06%2017-41-01.png?raw=true" alt="Logo" width="800" height="400">
-    </a></p>
+
 
 ### Built With
 * HTML
